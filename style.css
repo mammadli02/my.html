@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+header {
+    margin-top: 10px;
+    background-color: cadetblue;
+    height: 60px;
+    padding-top: 10px;
+}
+
+h1 {
+   
+    text-align: center;
+
+}
+
+body{
+    font-size: 30px;
+}
+
+.part1 {
+    font-size: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    height: 60px;
+    float: left;
+    background-color: darkslategrey;
+    width: 33.3%;
+    padding-top: 15px;
+    
+}
+
+.part2 {
+    font-size: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    height: 60px;
+    float: left;
+    background-color: #478a8a;
+    width: 33.3%;
+    padding-top: 15px;
+    
+}
+
+.part3 {
+    font-size: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;
+    float: left;
+    background-color: darkslategrey;
+    width: 33.3%;
+} 
+.main{
+    padding-top: 20px;
+    margin-top: 100px;
+    background-color: darkgray;
+    height: 300px;
+}
+aside{
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center ;
+    color: black;
+    background-color: rgb(247, 234, 234);
+    height: 200px;
+    float: left;
+    margin-left: 30px;
+    width: 33.3%;
+    margin-top: 40px;
+}
+div{
+    font-size: 30px;
+    padding-top: 30px;
+    height: 100px;
+    margin-top: 60px;
+    background-color: rgb(33, 150, 144);
+} 
+footer{
+    height: 100px;
+    background-color: rgb(52, 105, 105);
+    margin-top: 30px;
+    padding-top: 20px;
+}
